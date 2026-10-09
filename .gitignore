@@ -1,0 +1,22 @@
+# Never commit game files or anything extracted from them
+*.exe
+*.Exe
+*.bak
+*.dll
+*.ZIP
+*.zip
+*.WAV
+*.wav
+*.WHD
+Scenes/
+work/
+extracted/
+ 
+# Logs and scratch output
+*.log
+re-work/
+ 
+# Local tool state
+.gemini/
+*.json.bak
+ 
